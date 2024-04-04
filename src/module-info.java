@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author joshualipps
+ *
+ */
+module Schule {
+}
